@@ -1,4 +1,4 @@
-# Parse_elctro
+# Parse_electro
 ### Парсинг сайтов производителей электротехники:
 1) IEK 
 2) Navigator 
